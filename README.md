@@ -12,7 +12,7 @@
 
 ## Class notes
 
-<!-- npm init -y overrides need to hit enter
+npm init -y overrides need to hit enter
 
 npm init
 npm install express jest supertest dotenv
@@ -91,4 +91,4 @@ run npm test
 add new dimension to scripts in package 
 start : "node index.js"
 
-now npm start will look in index.js and get everything going -->
+now npm start will look in index.js and get everything going
