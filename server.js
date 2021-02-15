@@ -1,6 +1,5 @@
 'use strict';
 
-const {response} = require('express');
 const express = require ('express');
 const app = express();
 
@@ -23,5 +22,5 @@ function start(port){
 
 module.exports = {
   app: app,
-  start: start
+  start: start,
 };
